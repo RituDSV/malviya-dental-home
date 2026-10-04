@@ -21,8 +21,8 @@ SITE.content = {
     lede: "From a child's first tooth to implants and smile design, our MDS-qualified specialists look after every age under one roof in Malviya Nagar, South Delhi. Visiting from abroad? We plan your treatment before you arrive.",
     primaryCta: "Book an appointment",
     secondaryCta: "Plan a visit from abroad",
-    image: "waiting-area.jpg",
-    imageAlt: "The calm waiting area at Malviya Dental Home with white armchairs and a gold lamp",
+    image: "hero-waiting-area.jpg",
+    imageAlt: "The calm waiting area at Malviya Dental Home with white armchairs, a gold lamp and clinic awards on the counter",
     // The rating and the number of dentists are filled in automatically.
     extraFact: "Children and adults, one clinic"
   },
@@ -33,8 +33,8 @@ SITE.content = {
       "The American Academy of Pediatric Dentistry describes a dental home as an ongoing relationship between dentist and patient: care that is complete, continuous, coordinated and centred on the whole family, whatever your background or circumstances.",
       "That is the standard we hold ourselves to. You get one clinic, one team and a record of your family's teeth that grows with you."
     ],
-    image: "treatment-room.jpg",
-    imageAlt: "A treatment room at Malviya Dental Home with a modern dental chair and clinic awards on the counter"
+    image: "hero-dental-chair.jpg",
+    imageAlt: "A treatment room at Malviya Dental Home with a modern dental chair"
   },
 
   why: {
@@ -57,8 +57,8 @@ SITE.content = {
   location: {
     heading: "Find us in Malviya Nagar.",
     blurb: "We're in the heart of the Malviya Nagar market, with plenty of parking space nearby.",
-    image: "lobby-certificates.jpg",
-    imageAlt: "Framed certificates on the wall above an orange sofa in the clinic lobby"
+    image: "hero-home.jpg",
+    imageAlt: "A cosy dental clinic waiting area"
   },
 
   footer: {
